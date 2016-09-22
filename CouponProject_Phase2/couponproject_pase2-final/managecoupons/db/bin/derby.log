@@ -1,0 +1,14 @@
+Sun Sep 11 14:50:30 IDT 2016 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Sep 11 14:50:46 IDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0157-1915-a189-000051347d3b 
+on database directory C:\JEE\workspace\managecoupons\db\bin\CouponDB with class loader sun.misc.Launcher$AppClassLoader@61bbe9ba 
+Loaded from file:/C:/JEE/workspace/managecoupons/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=C:\JEE\workspace\managecoupons\db\bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\JEE\workspace\managecoupons\db\bin
+Database Class Loader started - derby.database.classpath=''
