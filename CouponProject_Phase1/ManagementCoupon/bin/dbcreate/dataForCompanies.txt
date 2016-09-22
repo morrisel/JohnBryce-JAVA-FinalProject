@@ -1,0 +1,29 @@
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (1,  'Mashbir Le Tzarhan', 'xaljf47s', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (2,  'ACE', 'asdcccd', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (3,  'Home Center', 'jhgff', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (4,  'GOLF', 'abbccc', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (5,  'Psagot', 'capass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (6,  'Migdal', 'verpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (7,  'Walla', 'czpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (8,  'Nana', 'zpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (9,  'Yad2', 'lalwww', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (10, 'Discount Bank', 'qwerty', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (11, 'Shufersal', 'deg32', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (12, 'MEGA', 'jjsko', 'myemail@email.com');
+INSERT INTO Company (COMPANY_ID, COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES (13, '1/2 Hinam', 'adfamz', 'myemail@email.com');
+
+
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Mashbir Le Tzarhan', 'xaljf47s', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('ACE', 'asdcccd', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Home Center', 'jhgff', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('GOLF', 'abbccc', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Psagot', 'capass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Migdal', 'verpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Walla', 'czpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Nana', 'zpass', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Yad2', 'lalwww', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Discount Bank', 'qwerty', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('Shufersal', 'deg32', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('MEGA', 'jjsko', 'myemail@email.com');
+INSERT INTO Company (COMPANY_NAME, COMPANY_PASSWORD, EMAIL) VALUES ('1/2 Hinam', 'adfamz', 'myemail@email.com');
+
